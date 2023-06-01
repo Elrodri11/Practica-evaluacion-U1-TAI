@@ -8,7 +8,7 @@ Inicia sesión
 
 <div class="md:flex md:justify-center md:gap-10 md:items-center "> 
     <div class="md:w-1/2 p-5">
-        <img src="{{asset('img/login.jpg')}}" alt="Imagen login de usuarios">
+        <img src="{{asset('img/inicio_sesion.png')}}" alt="Imagen login de usuarios">
 
     </div>
 
